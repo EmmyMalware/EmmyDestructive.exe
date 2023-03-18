@@ -1,0 +1,9 @@
+C:\Users\April\source\repos\EmmyDestructive\EmmyDestructive\bin\Debug\EmmyDestructive.exe
+C:\Users\April\source\repos\EmmyDestructive\EmmyDestructive\bin\Debug\EmmyDestructive.pdb
+C:\Users\April\source\repos\EmmyDestructive\EmmyDestructive\obj\Debug\EmmyDestructive.csproj.AssemblyReference.cache
+C:\Users\April\source\repos\EmmyDestructive\EmmyDestructive\obj\Debug\EmmyDestructive.Form1.resources
+C:\Users\April\source\repos\EmmyDestructive\EmmyDestructive\obj\Debug\EmmyDestructive.Properties.Resources.resources
+C:\Users\April\source\repos\EmmyDestructive\EmmyDestructive\obj\Debug\EmmyDestructive.csproj.GenerateResource.cache
+C:\Users\April\source\repos\EmmyDestructive\EmmyDestructive\obj\Debug\EmmyDestructive.csproj.CoreCompileInputs.cache
+C:\Users\April\source\repos\EmmyDestructive\EmmyDestructive\obj\Debug\EmmyDestructive.exe
+C:\Users\April\source\repos\EmmyDestructive\EmmyDestructive\obj\Debug\EmmyDestructive.pdb

@@ -1,0 +1,1 @@
+﻿Don't download the "cool.exe" because it is an MBR exeucuable
